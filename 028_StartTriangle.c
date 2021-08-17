@@ -7,9 +7,9 @@ int main()
     {
         for ( j = 0; j<=i; j++)
         {
-            printf("*\n");
+            printf("*");
         }
-        
+        printf("\n");
     }
     
     return 0;
